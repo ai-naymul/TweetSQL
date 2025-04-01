@@ -9,7 +9,7 @@
 
     Task: Explore and preprocess the dataset.
     Subtasks:
-        - Load the dataset and examine the structure (i.e., columns instruction and output).
+        - Load the dataset (from the huggingface)['https://huggingface.co/datasets/Holmeister/ei_oc_unstructured'] and examine the structure (i.e., columns instruction and output).
         - Perform basic data cleaning (e.g., remove duplicates, handle missing values).
         - Tokenize the text data from the instruction column to prepare it for model input.
 

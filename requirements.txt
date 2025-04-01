@@ -1,4 +1,5 @@
 transformers
-'transformers[torch]'
+transformers[torch]
 psycopg2
 pandas
+datasets
